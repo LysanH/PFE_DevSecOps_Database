@@ -1,0 +1,24 @@
+[
+  {
+    "pfedevsecops": {
+	"host": "localhost",
+      "username": "pfedevsecops",
+      "password": "fjeziomf1234@fefd."
+    }
+  },
+  {
+    "root": {
+	"host": "192.168.56.110",
+      "username": "root",
+      "password": ""
+    }
+  },
+  {
+    "username": "root",
+    "password": ""
+  },
+  {
+    "username": "test",
+    "password": ""
+  }
+]
